@@ -1,0 +1,10 @@
+{
+  "name": "CSFLE",
+  "version": "0.0.1",
+  "description": "This is just an example on how to use MongoDB Atlas 4.2 with Client-Side Field Level Encryption",
+  "main": "example.js",
+  "author": "Wan Bachtiar",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
+}
