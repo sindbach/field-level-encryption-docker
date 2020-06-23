@@ -1,3 +1,8 @@
+### This Repository is NOT a supported MongoDB product
+
+Note: Code samples in this repository are entirely for development & evaluation only. Note that all examples that use local key files are intended only for illustration - for production purposes, the integrated Key Management Service (KMS) option is strongly recommended.
+
+
 ## Information
 
 This Docker file uses by default the 3.5.9 version of [MongoDB NodeJS driver](https://mongodb.github.io/node-mongodb-native/3.5/)
