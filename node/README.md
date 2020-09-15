@@ -5,8 +5,8 @@ Note: Code samples in this repository are entirely for development & evaluation 
 
 ## Information
 
-This Docker file uses by default the 3.5.9 version of [MongoDB NodeJS driver](https://mongodb.github.io/node-mongodb-native/3.5/)
-See [MongoDB NodeJS driver QuickStart](https://mongodb.github.io/node-mongodb-native/3.5/quick-start/quick-start/) for more examples.
+This Docker file uses by default the 3.6.2 version of [MongoDB NodeJS driver](https://docs.mongodb.com/drivers/node/)
+See [MongoDB NodeJS driver QuickStart](https://docs.mongodb.com/drivers/node/quick-start) for more examples.
 Alternatively, you can select a specific MongoDB NodeJS driver version by leveraging the `--build-arg` option when building the image.
 
 Note that the given code example has been tested against the default MongoDB Node driver version. There is no guarantee that the code sample with work for all possible versions of the driver.
